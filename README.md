@@ -26,3 +26,13 @@ A Demo Augmented Reality (AR/XR) application developed using Unity, focused on d
 ---
 
 ## 🎥 Demo
+
+
+
+https://github.com/user-attachments/assets/2a0127bc-af5b-43f3-96c0-db5ccd463a95
+
+
+
+
+https://github.com/user-attachments/assets/06699110-43cb-40af-ac33-5eb9dde2bb5c
+
